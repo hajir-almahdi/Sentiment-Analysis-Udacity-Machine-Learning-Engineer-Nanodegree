@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Udacity-Machine-Learning-Engineer-Nanodegree
+# Sentiment Analysis
 a Sentiment Analysis Web App Using PyTorch and SageMaker
 In this projcet, a sentiment web app was created using AWS SageMaker
 
